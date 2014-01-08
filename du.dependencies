@@ -1,9 +1,9 @@
 [
     {
-        "remote": "omnirom",
+        "remote": "chasmodo",
         "repository": "android_device_samsung_galaxys2-common",
         "target_path": "device/samsung/galaxys2-common",
-        "revision": "android-4.4"
+        "revision": "du44"
     },
     {
         "remote": "omnirom",
@@ -12,9 +12,9 @@
         "revision": "android-4.4"
     },
     {
-        "remote": "omnirom",
+        "remote": "du",
         "repository": "android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "revision": "android-4.4"
+        "revision": "du44"
     }
 ]
