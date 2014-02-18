@@ -4,3 +4,11 @@
 
 rild.libpath=/system/lib/libsec-ril.so
 rild.libargs=-d /dev/ttyS0
+
+# hardware info
+ro.device.chipset=Samsung Exynos 4
+ro.device.cpu=1.4 GHz dual-core
+ro.device.gpu=Mali-400 MP4
+ro.device.rear_cam=8 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=5.3 inch 800 x 1280 pixels 285 ppi
