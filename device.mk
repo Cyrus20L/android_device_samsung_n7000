@@ -54,10 +54,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/usr/idc/sec_e-pen.idc:system/usr/idc/sec_e-pen.idc \
     $(LOCAL_PATH)/usr/idc/sec_touchscreen.idc:system/usr/idc/sec_touchscreen.idc
 
-# Bootanimation
-PRODUCT_COPY_FILES += \
-    vendor/du/bootanimations/bootanimation_720_1280.zip:system/media/bootanimation.zip
-
 # GPS
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/init.gps.rc:root/init.gps.rc \
